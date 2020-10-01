@@ -35,7 +35,7 @@ GameState lastState;
 
 #define HITPIN A0
 #define LEDPIN D2
-#define NUMPIXELS 6
+#define NUMPIXELS 5
 const int threshold = 100;
 int cycleCounter = 0;
 int hitCounter = 0;
